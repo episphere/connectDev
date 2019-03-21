@@ -1,0 +1,4 @@
+[submodule "connect"]
+	path = connect
+	url = https://github.com/episphere/connect.git
+	branch = dev
